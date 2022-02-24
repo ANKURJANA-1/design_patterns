@@ -25,6 +25,8 @@ fun main(args: Array<String>) {
     obseraverImpl.notifyDataSetChange()
     obseraverImpl.add(forecastDisplay)
     obseraverImpl.notifyDataSetChange()
+    obseraverImpl.add(forecastDisplay)
+    obseraverImpl.notifyDataSetChange()
 
 
 }
